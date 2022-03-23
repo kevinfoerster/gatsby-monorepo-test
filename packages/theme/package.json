@@ -2,12 +2,12 @@
     "name": "@kf/theme",
     "version": "1.0.0",
     "license": "MIT",
-    "dependencies": {
+    "peerDependencies": {
       "gatsby": "4.10.3",
       "react":"17.0.2",
       "react-dom":"17.0.2"
     },
-    "main": "index.js",
+    "main": "gatsby-config.js",
     "private":false
 
   }

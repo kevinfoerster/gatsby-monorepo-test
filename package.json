@@ -8,6 +8,6 @@
     "packages/*"
   ],
   "scripts": {
-    "dev": "yarn workspace gatsby gatsby develop"
+    "dev": "yarn workspace @kf/gatsby develop"
   }
 }
